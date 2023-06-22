@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vinícius</h1>
 <h3 align="center">A computer engineering student looking to always improve!</h3>
 
-- 🌱 I’m currently learning **SQL, Python, C++, JS**
+- 🌱 I’m currently learning **MongoDB, C++, TS and Node**
 
 - ⚡ Best Skill **Fast and dedicated learner**
 
